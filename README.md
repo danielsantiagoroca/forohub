@@ -14,7 +14,7 @@ API REST de foro con autenticación JWT. Desafío Oracle ONE - Challenge Back En
 
 - JDK 17+
 - Maven 3.9+
-- PostgreSQL (base de datos `forohub` creada en el mismo servidor que LiterAlura)
+- PostgreSQL (base de datos `forohub` creada)
 
 ### Variables de entorno requeridas
 
@@ -348,8 +348,8 @@ Authorization: Bearer <token>
 
 ### Aplicación en ejecución (IntelliJ IDEA)
 
-![ForoHub corriendo en IntelliJ](screenshot-forohub-intellij.png)
+[ForoHub corriendo en IntelliJ](screenshot-forohub-intellij.png)
 
 ### Prueba de endpoints (Insomnia)
 
-![Prueba de endpoints en Insomnia](screenshot-forohub-insomnia.png)
+[Prueba de endpoints en Insomnia](screenshot-forohub-insomnia.png)
