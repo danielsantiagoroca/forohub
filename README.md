@@ -348,8 +348,8 @@ Authorization: Bearer <token>
 
 ### Aplicación en ejecución (IntelliJ IDEA)
 
-[ForoHub corriendo en IntelliJ](screenshot-forohub-intellij.png)
+![ForoHub corriendo en IntelliJ](screenshot-forohub-intellij.png)
 
 ### Prueba de endpoints (Insomnia)
 
-[Prueba de endpoints en Insomnia](screenshot-forohub-insomnia.png)
+![Prueba de endpoints en Insomnia](screenshot-forohub-insomnia.png)
